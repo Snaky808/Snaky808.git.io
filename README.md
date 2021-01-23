@@ -7,14 +7,11 @@ This is about something
         <title>HTML basics</title>
     </head>
     <body>
-<style>
-h1{color:;green
-font-family:sans-serif;
-}
 
 <h1>!Welcome to Snaky808's Website!</h1>
 
-</style>
+
+
 
     </body>
 </html>
